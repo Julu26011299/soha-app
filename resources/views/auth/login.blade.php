@@ -16,7 +16,7 @@
         <form method="POST" action="{{ route('login') }}">
             @csrf
             <div class="header header-primary text-center">
-                <h4 class="card-title">Log in</h4>
+                <h4 class="card-title">Đăng nhập</h4>
                 <div class="social-line">
                     <a href="#pablo" class="btn btn-just-icon" style="background-color: #337AB7">
                         <i class="fa fa-facebook"></i>
